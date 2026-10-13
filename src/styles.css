@@ -1,0 +1,22 @@
+*{
+    align-items: center;
+    text-align: center;
+}
+
+p.title {
+    font-size: 48px;
+    vertical-align: middle;
+}
+
+img.title {
+    width: 25%;
+    height:auto;
+    display: flex;
+    justify-content: center;
+}
+
+.List_stand_for_things {
+    display: flex;
+    justify-content: center;
+    posi
+}
